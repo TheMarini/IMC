@@ -1,0 +1,7 @@
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjIMC (com Classe)\prjFormClasse\prjFormClasse\bin\Release\prjFormClasse.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjIMC (com Classe)\prjFormClasse\prjFormClasse\bin\Release\prjFormClasse.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjIMC (com Classe)\prjFormClasse\prjFormClasse\obj\x86\Release\prjFormClasse.frmFormClasse.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjIMC (com Classe)\prjFormClasse\prjFormClasse\obj\x86\Release\prjFormClasse.Properties.Resources.resources
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjIMC (com Classe)\prjFormClasse\prjFormClasse\obj\x86\Release\prjFormClasse.csproj.GenerateResource.Cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjIMC (com Classe)\prjFormClasse\prjFormClasse\obj\x86\Release\prjFormClasse.exe
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\3º Ano\Leguth\prjIMC (com Classe)\prjFormClasse\prjFormClasse\obj\x86\Release\prjFormClasse.pdb
